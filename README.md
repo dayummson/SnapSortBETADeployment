@@ -7,7 +7,8 @@
 ## How to use? 🤔
 
 ## Demo
-![SnapSortDemo](https://github.com/dayummson/SnapSortBETADeployment/assets/121912725/611ec76c-924f-4c09-b949-1bbc78d67b62)
+![SnapSortDemo](https://github.com/dayummson/SnapSortBETADeployment/assets/121912725/51e6b7a7-74f6-4b3f-9cb7-416886439178)
+
 
 ```bash
 1. Download the zip file ⚡
