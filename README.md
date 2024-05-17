@@ -1,6 +1,7 @@
 # SnapSortBETADeployment
 
-![Klip video May 17th 2024 11_59 am](https://github.com/dayummson/SnapSortBETADeployment/assets/121912725/bb40ad2c-521f-4475-b498-0d27c759e73b)
+## ⚡ SnapSort ⚡
+![SnapSortDemo](https://github.com/dayummson/SnapSortBETADeployment/assets/121912725/611ec76c-924f-4c09-b949-1bbc78d67b62)
 
 ## How to use? 🤔
 
