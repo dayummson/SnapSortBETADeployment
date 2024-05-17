@@ -9,8 +9,7 @@ Sort your files effortlessly. With the lightweight nature of Qt and the speed of
 ## How to use? 🤔
 
 ## Demo
-![SnapSortDemo](https://github.com/dayummson/SnapSortBETADeployment/assets/121912725/51e6b7a7-74f6-4b3f-9cb7-416886439178)
-
+![SnapSortDemo](https://github.com/dayummson/SnapSortBETADeployment/assets/121912725/6bf87e73-0471-45fc-835e-4c7ebafb0767)
 
 ```bash
 1. Download the zip file ⚡
