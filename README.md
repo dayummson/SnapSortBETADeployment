@@ -9,6 +9,7 @@ Sort your files effortlessly. With the lightweight nature of Qt and the speed of
 ## How to use? 🤔
 
 ## Demo
+
 ![SnapSortDemo](https://github.com/dayummson/SnapSortBETADeployment/assets/121912725/6bf87e73-0471-45fc-835e-4c7ebafb0767)
 
 ```bash
@@ -16,12 +17,13 @@ Sort your files effortlessly. With the lightweight nature of Qt and the speed of
 
 2. Extract the zip file ⚡
 
-3. Run the SnapSortV2.exe  ⚡
+3. Run the SnapSort.exe  ⚡
 
 4. Enjoy!🤗
 ```
 
 ## FAQ
+
 ```bash
 What is SnapSort? 🤔
 SnapSort is a utility that helps you organize your files with the push of a button.
