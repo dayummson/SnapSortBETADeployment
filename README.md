@@ -19,6 +19,10 @@ Sort your files effortlessly. With the lightweight nature of Qt and the speed of
 
 3. Run the SnapSort.exe  ⚡
 
+4. Right click the directory you want to sort and Click the "copy as path". ⚡
+
+5. Past the copied path to SnapSort. ⚡
+
 4. Enjoy!🤗
 ```
 
